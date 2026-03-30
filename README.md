@@ -7,6 +7,12 @@ Sistem Pendukung Keputusan untuk menentukan lokasi minimarket menggunakan PROMET
 - Proses perhitungan PROMETHEE
 - Menampilkan Hasil ranking lokasi
 
+## Screenshot
+- Login (ss/Halaman Login.png)
+- Dashboard Admin (ss/Dashboard Admin.png)
+- Dashboard Manajer (ss/Dashboard Manajer.png)
+- Hasil (ss/Halaman Hasil.png)
+
 ## Teknologi
 - php
 - MySQL
